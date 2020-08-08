@@ -1,0 +1,3 @@
+git remote -v: This will display the URL of the repository you created in GitHub, which is the remote for your local copy.
+git remote: This gives the name of the remote connection, named origin. Origin the the default name of the remote connection. it but it could have just as easily been named “party-parrot” or “dancing-banana.”
+asdfasdfasdfasdfasdf
